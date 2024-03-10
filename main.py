@@ -1,1 +1,5 @@
-print("Hola Diego")
+from ClasePadre import Mamifero
+
+padre = Mamifero("Diego")
+
+print("Hola ", padre.nombre, "!", sep="")
