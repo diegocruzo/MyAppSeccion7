@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be359115-82fa-4ac7-95f7-dd623dd12f2e" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/ClasePadre.py" afterDir="false" />
+>>>>>>> e7b0f38f0a1deee8d7170e1e3577ec61dbfd49d6
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -50,6 +55,21 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> e7b0f38f0a1deee8d7170e1e3577ec61dbfd49d6
   }
 }</component>
   <component name="RunManager">
@@ -90,10 +110,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709829304914</updated>
+<<<<<<< HEAD
       <workItem from="1709829306120" duration="2067000" />
       <workItem from="1709832983640" duration="487000" />
       <workItem from="1709920076980" duration="425000" />
       <workItem from="1709920549185" duration="1156000" />
+=======
+      <workItem from="1709829306120" duration="760000" />
+      <workItem from="1710106105572" duration="2072000" />
+>>>>>>> e7b0f38f0a1deee8d7170e1e3577ec61dbfd49d6
     </task>
     <servers />
   </component>
